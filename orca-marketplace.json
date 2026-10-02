@@ -47,7 +47,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/taranttoola-create/orca-russian.git",
-        "ref": "v1.3.1"
+        "ref": "v1.3.2"
       },
       "description": "Russian language pack for the Orca interface: ~13,700 translated strings covering menus, settings, palettes, dashboards, worktree tabs, dialogs, browser, terminal and onboarding. Settings search understands Russian words.",
       "categories": ["languages"]
